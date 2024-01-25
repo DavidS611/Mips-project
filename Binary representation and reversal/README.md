@@ -45,13 +45,3 @@ This repository contains an assembly program for MIPS architecture that takes an
 
 3. **Usage:**
    - Follow the on-screen instructions to enter an integer within the specified range.
-
-## Building and Running
-
-To assemble and run the code:
-
-```bash
-your_assembler -o output.o program.asm
-your_linker -o program output.o
-./program
-

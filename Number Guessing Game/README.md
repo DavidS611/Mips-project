@@ -43,12 +43,3 @@ This repository contains an assembly program designed for the MIPS architecture,
 4. **Another Game:**
    - After each round, the program asks if the user wants to play another game.
 
-## Building and Running
-
-To assemble and run the code:
-
-```bash
-your_assembler -o output.o game.asm
-your_linker -o game output.o
-./game
-
