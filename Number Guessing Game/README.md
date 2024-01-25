@@ -18,7 +18,7 @@ This repository contains an assembly program designed for the MIPS architecture,
 
 - **Function Definitions:**
   - `print_string`: A function to print strings to the console.
-  - `get_three_digit_number`: A function to retrieve a three-digit number from the user.
+  - `get_number`: A function to retrieve a three-digit number from the user.
   - `get_guess`: A function to obtain a guess from the user.
   - `compare_guess`: A function to compare the user's guess with the target number.
 
