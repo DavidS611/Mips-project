@@ -45,3 +45,6 @@ This repository contains an assembly program for MIPS architecture that takes an
 
 3. **Usage:**
    - Follow the on-screen instructions to enter an integer within the specified range.
+   
+![Local Image](example.png)
+
