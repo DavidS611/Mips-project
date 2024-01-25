@@ -43,3 +43,5 @@ This repository contains an assembly program designed for the MIPS architecture,
 4. **Another Game:**
    - After each round, the program asks if the user wants to play another game.
 
+![Local Image](example.png)
+
